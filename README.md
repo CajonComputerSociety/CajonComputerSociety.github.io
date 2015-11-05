@@ -1,2 +1,1 @@
 # Cajon Computer Society
-## CCS
